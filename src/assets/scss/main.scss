@@ -1,0 +1,12 @@
+@import './reset';
+@import './fonts';
+
+html {
+	--bg-color: #f6f5ef;
+	--text-color-dark-1: #42473e;
+	--text-color-dark-2: #7c8078;
+	--text-color-light: #f5f4f2;
+
+	font-family: 'Uni Neue', sans-serif;
+	font-weight: 200;
+}
